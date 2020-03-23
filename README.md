@@ -1,4 +1,4 @@
-# nutrition
+# Nutrition-Regression_Tasks
 I have used the nutirion dataset and applied various machine learning algorithms on it.
 
 Target variable is Calories 
